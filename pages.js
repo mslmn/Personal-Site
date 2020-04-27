@@ -4,7 +4,7 @@ let pageNumber = 0;
 // have the content for these pages
 const pages = [
   {
-    copy: "an incoming UK Medical student",
+    copy: "an incoming UK Medical Student",
     background: "#ee0073",
     circle: "#3da9fc",
   },
