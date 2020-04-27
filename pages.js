@@ -22,7 +22,7 @@ const pages = [
   },
 
   {
-    copy: `inviting you to <a href="https://www.linkedin.com/in/m--sulaiman/">connect on LinkedIn</a> <p>👋🏾</p>`,
+    copy: `inviting you to connect on <a href="https://www.linkedin.com/in/m--sulaiman/">LinkedIn</a> <p>👋🏾</p>`,
     background: "#3da9fc",
     circle: "#ef4565",
   },
@@ -35,7 +35,6 @@ const randomTag = document.querySelector("footer svg.random");
 const outputTag = document.querySelector("section h2");
 const bodyTag = document.querySelector("body");
 const circleTag = document.querySelector("section div.circle");
-const textTag = document.querySelector("section h2");
 
 // make a next function to increase the pageNumber
 const next = function () {
