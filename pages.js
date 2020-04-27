@@ -10,7 +10,7 @@ const pages = [
   },
 
   {
-    copy: "a lover of everything medtech",
+    copy: "a huge fan of everything medtech",
     background: "#232946",
     circle: "#e34a47",
   },
