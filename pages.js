@@ -22,7 +22,7 @@ const pages = [
   },
 
   {
-    copy: `inviting you to connect on <a href="https://www.linkedin.com/in/m--sulaiman/">LinkedIn</a> <p>👋🏾</p>`,
+    copy: `inviting you to connect on <a href="https://www.linkedin.com/in/mslmn/">LinkedIn</a> <p>👋🏾</p>`,
     background: "#3da9fc",
     circle: "#ef4565",
   },
