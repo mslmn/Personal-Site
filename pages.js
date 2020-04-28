@@ -5,13 +5,13 @@ let pageNumber = 0;
 const pages = [
   {
     copy: "an incoming UK Medical Student",
-    background: "#ee0073",
-    circle: "#3da9fc",
+    background: "#7f5bf1",
+    circle: "#2cb67d",
   },
 
   {
     copy: "a big fan of everything medtech",
-    background: "#232946",
+    background: "#0e38b1",
     circle: "#e34a47",
   },
 
@@ -23,7 +23,7 @@ const pages = [
 
   {
     copy: `inviting you to connect on <a href="https://www.linkedin.com/in/m--sulaiman/">LinkedIn</a> <p>👋🏾</p>`,
-    background: "#3da9fc",
+    background: "#19aad1",
     circle: "#ef4565",
   },
 ];
